@@ -1,0 +1,17 @@
+.question {
+  text-align: center;
+  width: 500px;
+  background-color: #c3bbc9;
+  border-radius: 1rem;
+  padding: 2rem;
+}
+.question h2,
+.question p {
+  margin-bottom: 2rem;
+}
+.question p {
+  margin-bottom: 1rem;
+}
+.question button {
+  border: none;
+}
